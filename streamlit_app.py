@@ -76,3 +76,6 @@ if st.button("Analyze Emotions"):
                 st.write(f"**Sentence {i+1}:** {sent} (Class: {journey[i]})")
     else:
         st.warning("Please enter some text first!")
+nltk.download('punktk')
+nltk.download('punktk_tab')
+
