@@ -2,7 +2,7 @@ TimelineViz: Emotion Tracking over Time
 This project is a tool to analyze how emotions shift throughout a piece of text. Instead of a single label for the entire input, it breaks the text into sentences and predicts an emotion for each step, creating a visual timeline.
 
 Live Demo
-Test the model here: TimelineViz App
+Test the model here: [TimelineViz App](https://timelineviz-using-cnn-and-bilstm-wcg7jujqmruxxylqzc2azy.streamlit.app/)
 
 Core Logic
 Dataset: Trained on the GoEmotions dataset which consists of 28 distinct emotion categories.
